@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Stimulus Software
 
-You can use the [editor on GitHub](https://github.com/jamieb22/stimulussoft/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://www.mailarchiva.com/images/stimuluslogo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Stimulus Software](https://www.stimulussoft.com) is a developer of e-discovery software, notably [MailArchiva].(https://www.mailarchiva.com). Like many software firms, we leverage open source software projects in our projects (always with restrict adherence to the license terms!). As such, we strive to reciprocate by reporting and fixing bugs, and contributing useful libraries back to the open source community.
 
-### Markdown
+### Current OS Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[File Queue](https://github.com/jamieb22/filequeue) - a light weight, high performance, simple, reliable and persistent queue for Java applications.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamieb22/stimulussoft/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
