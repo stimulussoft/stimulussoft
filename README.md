@@ -6,8 +6,4 @@
 
 [File Queue](https://github.com/jamieb22/filequeue) - a light weight, high performance, simple, reliable and persistent queue for Java applications.
 
-[WP Pay Portal For Stripe](https://github.com/stimulussoft/wppayportal) - a Wordpress plugin for managing Stripe subscriptions, downloading invoices and making payments
-
-
-
 
